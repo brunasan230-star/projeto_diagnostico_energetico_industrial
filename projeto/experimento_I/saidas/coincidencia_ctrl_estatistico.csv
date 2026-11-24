@@ -1,0 +1,7 @@
+validacao,familia,coincide,escolhida
+subsetor,hvac,1.0,facility_hvacf
+subsetor,motores,0.0,facility_hvacf
+subsetor,resfriamento,1.0,process_cooling_and_refrigeration
+temporal,hvac,1.0,facility_hvacf
+temporal,motores,0.0,facility_hvacf
+temporal,resfriamento,1.0,process_cooling_and_refrigeration

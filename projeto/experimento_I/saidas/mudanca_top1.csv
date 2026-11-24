@@ -1,0 +1,7 @@
+algoritmo,validacao,avaliacoes,top1_muda_%,so_C_acerta,so_A_acerta,recall1_A,recall1_C
+rf,subsetor,6533,10.2,259,201,0.743,0.752
+rf,temporal,2041,6.4,57,40,0.725,0.733
+xgb,subsetor,6533,11.5,327,221,0.743,0.759
+xgb,temporal,2041,4.9,40,30,0.718,0.723
+logit,subsetor,6533,11.7,306,246,0.745,0.754
+logit,temporal,2041,1.6,7,10,0.729,0.728
