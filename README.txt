@@ -1,6 +1,5 @@
-IND2622 — Etapa 3 / entrega final
+Conhecimento setorial e representação semântica no diagnóstico energético industrial
 
-artigo/            artigo no modelo SBPO (artigo.tex + referencias.bib); compilar com pdflatex + bibtex
 experimento_I/     Q1: notebook final, dados, saídas e log do MLflow
 experimento_II/    Q2: notebook final, rotas (kit_rotas.py, regras_python.py), saídas e log do MLflow
                    a base do KIT deve ser descompactada em experimento_II/data/dataset/archive/
