@@ -1,0 +1,601 @@
+arquivo,tipo,direta,direta_detalhe,python,regras_python,localizou_python,semantica,regras,n_violacoes,localizou,mesmas_violacoes
+instance_1380.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R7",True,rejeitada,"R4,R7",2,True,True
+instance_1380.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1380.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1380.json,E4_precedencia_inexistente,falha,KeyError: 327,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1380.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1380.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1381.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,R4,True,rejeitada,R4,1,True,True
+instance_1381.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1381.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1381.json,E4_precedencia_inexistente,falha,KeyError: 647,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1381.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1381.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1381.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,"R7,R9",True,rejeitada,"R7,R9",2,True,True
+instance_1381.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1381.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1382.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1382.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1382.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1382.json,E4_precedencia_inexistente,falha,KeyError: 967,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1382.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1382.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1382.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1382.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1382.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1383.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1383.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1383.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1383.json,E4_precedencia_inexistente,falha,KeyError: 1287,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1383.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1383.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1383.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1383.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1383.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1384.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1384.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1384.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1384.json,E4_precedencia_inexistente,falha,KeyError: 1607,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1384.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1384.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1384.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1384.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1384.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1385.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1385.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1385.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1385.json,E4_precedencia_inexistente,falha,KeyError: 2247,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1385.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1385.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1385.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1385.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1385.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1386.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1386.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1386.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1386.json,E4_precedencia_inexistente,falha,KeyError: 3207,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1386.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1386.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1386.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1386.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1386.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1401.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R7",True,rejeitada,"R4,R7",2,True,True
+instance_1401.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1401.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1401.json,E4_precedencia_inexistente,falha,KeyError: 372,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1401.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1401.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1402.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1402.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1402.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1402.json,E4_precedencia_inexistente,falha,KeyError: 737,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1402.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1402.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1402.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,"R7,R9",True,rejeitada,"R7,R9",2,True,True
+instance_1402.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1402.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1403.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,R4,True,rejeitada,R4,1,True,True
+instance_1403.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1403.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1403.json,E4_precedencia_inexistente,falha,KeyError: 1102,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1403.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1403.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1403.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1403.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1403.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1404.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1404.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1404.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1404.json,E4_precedencia_inexistente,falha,KeyError: 1467,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1404.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1404.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1404.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1404.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1404.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1405.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1405.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1405.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1405.json,E4_precedencia_inexistente,falha,KeyError: 1832,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1405.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1405.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1405.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1405.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1405.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1406.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1406.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1406.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1406.json,E4_precedencia_inexistente,falha,KeyError: 2562,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1406.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1406.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1406.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1406.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1406.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1407.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,R4,True,rejeitada,R4,1,True,True
+instance_1407.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1407.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1407.json,E4_precedencia_inexistente,falha,KeyError: 3657,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1407.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1407.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1407.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1407.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1407.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_134.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R7",True,rejeitada,"R4,R7",2,True,True
+instance_134.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_134.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_134.json,E4_precedencia_inexistente,falha,KeyError: 492,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_134.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_134.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_135.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_135.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_135.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_135.json,E4_precedencia_inexistente,falha,KeyError: 977,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_135.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_135.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_135.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,"R7,R9",True,rejeitada,"R7,R9",2,True,True
+instance_135.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_135.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_136.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_136.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_136.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_136.json,E4_precedencia_inexistente,falha,KeyError: 1462,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_136.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_136.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_136.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_136.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_136.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_137.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_137.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_137.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_137.json,E4_precedencia_inexistente,falha,KeyError: 1947,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_137.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_137.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_137.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_137.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_137.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_138.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_138.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_138.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_138.json,E4_precedencia_inexistente,falha,KeyError: 2432,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_138.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_138.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_138.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_138.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_138.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_139.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_139.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_139.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_139.json,E4_precedencia_inexistente,falha,KeyError: 3402,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_139.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_139.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_139.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_139.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_139.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_140.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,R4,True,rejeitada,R4,1,True,True
+instance_140.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_140.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_140.json,E4_precedencia_inexistente,falha,KeyError: 4857,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_140.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_140.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_140.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_140.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_140.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1275.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R7",True,rejeitada,"R4,R7",2,True,True
+instance_1275.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1275.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1275.json,E4_precedencia_inexistente,falha,KeyError: 417,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1275.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1275.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1276.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1276.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1276.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1276.json,E4_precedencia_inexistente,falha,KeyError: 827,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1276.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1276.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1276.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,"R7,R9",True,rejeitada,"R7,R9",2,True,True
+instance_1276.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1276.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1277.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,R4,True,rejeitada,R4,1,True,True
+instance_1277.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1277.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1277.json,E4_precedencia_inexistente,falha,KeyError: 1237,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1277.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1277.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1277.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1277.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1277.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1278.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,R4,True,rejeitada,R4,1,True,True
+instance_1278.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1278.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1278.json,E4_precedencia_inexistente,falha,KeyError: 1647,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1278.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1278.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1278.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1278.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1278.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1279.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1279.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1279.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1279.json,E4_precedencia_inexistente,falha,KeyError: 2057,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1279.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1279.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1279.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1279.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1279.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1280.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1280.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1280.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1280.json,E4_precedencia_inexistente,falha,KeyError: 2877,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1280.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1280.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1280.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1280.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1280.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1281.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1281.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1281.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1281.json,E4_precedencia_inexistente,falha,KeyError: 4107,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1281.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1281.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1281.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1281.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1281.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_813.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R7",True,rejeitada,"R4,R7",2,True,True
+instance_813.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_813.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_813.json,E4_precedencia_inexistente,falha,KeyError: 372,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_813.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_813.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_814.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,R4,True,rejeitada,R4,1,True,True
+instance_814.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_814.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_814.json,E4_precedencia_inexistente,falha,KeyError: 737,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_814.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_814.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_814.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,"R7,R9",True,rejeitada,"R7,R9",2,True,True
+instance_814.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_814.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_815.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_815.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_815.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_815.json,E4_precedencia_inexistente,falha,KeyError: 1102,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_815.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_815.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_815.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_815.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_815.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_816.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_816.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_816.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_816.json,E4_precedencia_inexistente,falha,KeyError: 1467,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_816.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_816.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_816.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_816.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_816.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_817.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,R4,True,rejeitada,R4,1,True,True
+instance_817.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_817.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_817.json,E4_precedencia_inexistente,falha,KeyError: 1832,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_817.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_817.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_817.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_817.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_817.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_818.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_818.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_818.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_818.json,E4_precedencia_inexistente,falha,KeyError: 2562,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_818.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_818.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_818.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_818.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_818.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_819.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_819.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_819.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_819.json,E4_precedencia_inexistente,falha,KeyError: 3657,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_819.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_819.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_819.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_819.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_819.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1184.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R7",True,rejeitada,"R4,R7",2,True,True
+instance_1184.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1184.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1184.json,E4_precedencia_inexistente,falha,KeyError: 222,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1184.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1184.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1185.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1185.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1185.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1185.json,E4_precedencia_inexistente,falha,KeyError: 437,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1185.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1185.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1185.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,"R7,R9",True,rejeitada,"R7,R9",2,True,True
+instance_1185.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1185.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1186.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1186.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1186.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1186.json,E4_precedencia_inexistente,falha,KeyError: 652,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1186.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1186.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1186.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1186.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1186.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1187.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1187.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1187.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1187.json,E4_precedencia_inexistente,falha,KeyError: 867,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1187.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1187.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1187.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1187.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1187.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1188.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1188.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1188.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1188.json,E4_precedencia_inexistente,falha,KeyError: 1082,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1188.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1188.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1188.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1188.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1188.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1189.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1189.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1189.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1189.json,E4_precedencia_inexistente,falha,KeyError: 1512,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1189.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1189.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1189.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1189.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1189.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1190.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1190.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1190.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1190.json,E4_precedencia_inexistente,falha,KeyError: 2157,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1190.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1190.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1190.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1190.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1190.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1072.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R7",True,rejeitada,"R4,R7",2,True,True
+instance_1072.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1072.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1072.json,E4_precedencia_inexistente,falha,KeyError: 297,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1072.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1072.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1073.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,R4,True,rejeitada,R4,1,True,True
+instance_1073.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1073.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1073.json,E4_precedencia_inexistente,falha,KeyError: 587,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1073.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1073.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1073.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,"R7,R9",True,rejeitada,"R7,R9",2,True,True
+instance_1073.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1073.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1074.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,R4,True,rejeitada,R4,1,True,True
+instance_1074.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1074.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1074.json,E4_precedencia_inexistente,falha,KeyError: 877,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1074.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1074.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1074.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1074.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1074.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1075.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1075.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1075.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1075.json,E4_precedencia_inexistente,falha,KeyError: 1167,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1075.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1075.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1075.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1075.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1075.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1076.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1076.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1076.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1076.json,E4_precedencia_inexistente,falha,KeyError: 1457,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1076.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1076.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1076.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1076.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1076.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1077.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1077.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1077.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1077.json,E4_precedencia_inexistente,falha,KeyError: 2037,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1077.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1077.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1077.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1077.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1077.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1078.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1078.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1078.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1078.json,E4_precedencia_inexistente,falha,KeyError: 2907,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1078.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1078.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1078.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1078.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1078.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1639.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R7",True,rejeitada,"R4,R7",2,True,True
+instance_1639.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1639.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1639.json,E4_precedencia_inexistente,falha,KeyError: 252,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1639.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1639.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1640.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,R4,True,rejeitada,R4,1,True,True
+instance_1640.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1640.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1640.json,E4_precedencia_inexistente,falha,KeyError: 497,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1640.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1640.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1640.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,"R7,R9",True,rejeitada,"R7,R9",2,True,True
+instance_1640.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1640.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1641.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1641.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1641.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1641.json,E4_precedencia_inexistente,falha,KeyError: 742,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1641.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1641.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1641.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1641.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1641.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1642.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1642.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1642.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1642.json,E4_precedencia_inexistente,falha,KeyError: 987,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1642.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1642.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1642.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1642.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1642.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1643.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,R4,True,rejeitada,R4,1,True,True
+instance_1643.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1643.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1643.json,E4_precedencia_inexistente,falha,KeyError: 1232,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1643.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1643.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1643.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1643.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1643.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1644.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1644.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1644.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1644.json,E4_precedencia_inexistente,falha,KeyError: 1722,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1644.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1644.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1644.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1644.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1644.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1645.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_1645.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_1645.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_1645.json,E4_precedencia_inexistente,falha,KeyError: 2457,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_1645.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_1645.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_1645.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_1645.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_1645.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_71.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R7",True,rejeitada,"R4,R7",2,True,True
+instance_71.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_71.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_71.json,E4_precedencia_inexistente,falha,KeyError: 357,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_71.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_71.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_72.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_72.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_72.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_72.json,E4_precedencia_inexistente,falha,KeyError: 707,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_72.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_72.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_72.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,"R7,R9",True,rejeitada,"R7,R9",2,True,True
+instance_72.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_72.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_73.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_73.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_73.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_73.json,E4_precedencia_inexistente,falha,KeyError: 1057,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_73.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_73.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_73.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_73.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_73.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_74.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_74.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_74.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_74.json,E4_precedencia_inexistente,falha,KeyError: 1407,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_74.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_74.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_74.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_74.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_74.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_75.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,R4,True,rejeitada,R4,1,True,True
+instance_75.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_75.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_75.json,E4_precedencia_inexistente,falha,KeyError: 1757,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_75.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_75.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_75.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_75.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_75.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_76.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_76.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_76.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_76.json,E4_precedencia_inexistente,falha,KeyError: 2457,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_76.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_76.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_76.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_76.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_76.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_77.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_77.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_77.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_77.json,E4_precedencia_inexistente,falha,KeyError: 3507,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_77.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_77.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_77.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_77.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_77.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_561.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R7",True,rejeitada,"R4,R7",2,True,True
+instance_561.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_561.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_561.json,E4_precedencia_inexistente,falha,KeyError: 462,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_561.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_561.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_562.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,R4,True,rejeitada,R4,1,True,True
+instance_562.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_562.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_562.json,E4_precedencia_inexistente,falha,KeyError: 917,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_562.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_562.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_562.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,"R7,R9",True,rejeitada,"R7,R9",2,True,True
+instance_562.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_562.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_563.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_563.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_563.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_563.json,E4_precedencia_inexistente,falha,KeyError: 1372,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_563.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_563.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_563.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_563.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_563.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_564.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_564.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_564.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_564.json,E4_precedencia_inexistente,falha,KeyError: 1827,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_564.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_564.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_564.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_564.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_564.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_565.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,R4,True,rejeitada,R4,1,True,True
+instance_565.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_565.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_565.json,E4_precedencia_inexistente,falha,KeyError: 2282,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_565.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_565.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_565.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_565.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_565.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_566.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,R4,True,rejeitada,R4,1,True,True
+instance_566.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_566.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_566.json,E4_precedencia_inexistente,falha,KeyError: 3192,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_566.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_566.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_566.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_566.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_566.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_567.json,E1_janela_menor_que_duracao,inviavel,modelo temporal sem solução,rejeitada,"R4,R9",True,rejeitada,"R4,R9",2,True,True
+instance_567.json,E2_duracao_zero,aceita,,rejeitada,R1,True,rejeitada,R1,1,True,True
+instance_567.json,E3_potencia_negativa,aceita,,rejeitada,R2,True,rejeitada,R2,1,True,True
+instance_567.json,E4_precedencia_inexistente,falha,KeyError: 4557,rejeitada,R5,True,rejeitada,R5,1,True,True
+instance_567.json,E5_campo_ausente,aceita,,rejeitada,R3,True,rejeitada,R3,1,True,True
+instance_567.json,E6_tipo_invalido,falha,TypeError: unsupported operand type(s) for -: 'int' and 'str',rejeitada,R1,True,rejeitada,R1,2,True,True
+instance_567.json,E7_janela_da_sequencia,inviavel,modelo temporal sem solução,rejeitada,R7,True,rejeitada,R7,1,True,True
+instance_567.json,E8_contiguidade_quebrada,aceita,,rejeitada,R8,True,rejeitada,R8,1,True,True
+instance_567.json,E9_ciclo_inviavel,inviavel,modelo temporal sem solução,rejeitada,R8,True,rejeitada,R8,1,True,True

@@ -1,0 +1,7 @@
+,rota direta,direta + regras em Python,rota semântica
+diagnosticado,0.0,100.0,100.0
+rejeitado sem localizar,0.0,0.0,0.0
+inviável sem diagnóstico,31.7,0.0,0.0
+falha de execução,23.3,0.0,0.0
+não detectado,45.0,0.0,0.0
+detecção total,55.0,100.0,100.0
