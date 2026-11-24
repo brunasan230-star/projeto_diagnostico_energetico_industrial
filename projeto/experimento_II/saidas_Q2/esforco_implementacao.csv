@@ -1,0 +1,4 @@
+implementação,linhas,onde vivem as regras,mensagem por regra
+SHACL (regras R0–R9),49,"arquivo de regras, separado do código","sim, declarada na regra"
+Python (regras R0–R9),52,dentro do código,só o código da regra
+Conversão JSON → RDF (só na semântica),34,—,—

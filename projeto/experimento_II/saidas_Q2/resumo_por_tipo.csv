@@ -1,0 +1,10 @@
+tipo,n,direta: detecta (%),direta: resultado típico,Python: detecta (%),Python: localiza (%),semântica: detecta (%),semântica: localiza (%),regras disparadas
+E1_janela_menor_que_duracao,70,100.0,inviável sem diagnóstico,100.0,100.0,100.0,100.0,"R4, R7, R9"
+E2_duracao_zero,70,0.0,não detectado,100.0,100.0,100.0,100.0,R1
+E3_potencia_negativa,70,0.0,não detectado,100.0,100.0,100.0,100.0,R2
+E4_precedencia_inexistente,70,100.0,falha de execução,100.0,100.0,100.0,100.0,R5
+E5_campo_ausente,70,0.0,não detectado,100.0,100.0,100.0,100.0,R3
+E6_tipo_invalido,70,100.0,falha de execução,100.0,100.0,100.0,100.0,R1
+E7_janela_da_sequencia,60,100.0,inviável sem diagnóstico,100.0,100.0,100.0,100.0,"R7, R9"
+E8_contiguidade_quebrada,60,0.0,não detectado,100.0,100.0,100.0,100.0,R8
+E9_ciclo_inviavel,60,100.0,inviável sem diagnóstico,100.0,100.0,100.0,100.0,R8
